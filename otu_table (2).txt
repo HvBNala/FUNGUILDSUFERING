@@ -8,4 +8,5 @@ OTU_1015	29	9	0	0	8	100%|uncultured_fungus|KC965399|SH451013.06FU|reps_singleton
 OTU_1018	0	0	2	0	0	96.97%|uncultured_Ascomycota|FN562038|SH449221.06FU|reps_singleton|k__Fungi;p__Ascomycota;c__unidentified;o__unidentified;f__unidentified;g__unidentified;s__uncultured_Ascomycota
 OTU_1021	1	0	28	289	267	100%|Massarina_sp_JP_2013|JX981477|SH018317.06FU|reps_singleton|k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Massarinaceae;g__Massarina;s__Massarina_sp_JP_2013
 OTU_1023	0	0	3	0	0	100%|Scleroderma_areolatum|EU784408|SH434269.06FU|reps_singleton|k__Fungi;p__Basidiomycota;c__Agaricomycetes;o__Boletales;f__Sclerodermataceae;g__Scleroderma;s__Scleroderma_areolatum
-OTU_1024	1	1	0	0	0	100%|Derxomyces_sp_LTD_2009a|AB508840|SH457761.06FU|reps_singleton|k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Tremellales;f__Incertae_sedis;g__Derxomyces;s__Derxomyces_sp_LTD_2009a
+OTU_1024	1	1	0	0	0	100%|Alternaria_angustiovoidea|PP854441.1|SH457761.06FU|reps_singleton|k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Pleosporaceae;g__Alternaria;s__Alternaria_angustiovoidea
+

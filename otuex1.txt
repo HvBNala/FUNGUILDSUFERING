@@ -1,0 +1,3 @@
+OTU ID	sample1	taxonomy
+OTU_100	1	100%|Alternaria_alternata|MT646481|reps_singleton|k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Pleosporaceae;g__Alternaria;s__Alternaria_alternata
+OTU_101	1	99.60%|Purpureocillium_lilacinum|OM423382|reps_singleton|k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Hypocreales;f__Ophiocordycipitaceae;g__Purpureocillium;s__Purpureocillium_lilacinum

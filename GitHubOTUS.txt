@@ -1,4 +1,4 @@
 sim	sp	accesion	refs	kingdom	phyla	class	order	family	genus	specie	sp
 100%	Alternaria_alternata	MT646481	-	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria_alternata	
 99.60%	Purpureocillium_lilacinum	OM423382                 	-	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Purpureocillium 	Purpureocillium_lilacinum	
-	Fusarium_equiseti										
+100%	Fusarium_equiseti										

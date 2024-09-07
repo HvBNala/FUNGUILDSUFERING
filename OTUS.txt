@@ -1,4 +1,13 @@
 sim	sp	accesion	refs	kingdom	phyla	class	order	family	genus	specie	sp
 100%	Alternaria_alternata	MT646481	-	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria_alternata	
 99.60%	Purpureocillium_lilacinum	OM423382                 	-	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Ophiocordycipitaceae	Purpureocillium 	Purpureocillium_lilacinum	
-100%	Fusarium_equiseti										
+100%	Fusarium_equiseti  PP737906  Fungi  Ascomycota  Sordariomycetes  Hypocreales  Nectriaceae  Fusarium  Fusarium_equiseti
+100% Fusarium_chlamydosporum  MT447513  Fungi  Ascomycota  Sordariomycetes  Hypocreales  Nectriaceae  Fusarium  Fusarium_chlamydosporum
+99.84%  Fusarium_lateritium AF310978  Fungi  Ascomycota  Sordariomycetes  Hypocreales  Nectriaceae  Fusarium   Fusarium_lateritium
+99.63%  Fusarium_solani  OR879065  Fungi  Ascomycota  Sordariomycetes  Hypocreales  Nectriaceae  Fusarium   Fusarium_solani
+100%  Fusarium_falciforme  PP800739  Fungi  Ascomycota  Sordariomycetes  Hypocreales  Nectriaceae  Fusarium  Fusarium_falciforme
+99.82%  Aspergillus_fumigatiaffinis  MK450636  Fungi  Ascomycota  Eurotiomycetes  Eurotiales  Aspergillaceae  Aspergillus_fumigatiaffinis
+100%  Clonostachys_rosea  MN511326  Fungi  Ascomycota  Sordariomycetes  Hypocreales  Bionectriaceae  Clonostachys_rosea
+99.45%  Penicillium_terrarumae  NR_172736  Fungi  Ascomycota  Eurotiomycetes  Eurotiales  Aspergillaceae  Penicillium_terrarumae
+100%  Curvularia_cymbopogonis  GU073104  Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae  Curvularia_cymbopogonis
+100%  Alternaria_angustiovoidea  MH861939  Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae  Alternaria_angustiovoidea

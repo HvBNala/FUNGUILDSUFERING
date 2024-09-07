@@ -1,3 +1,0 @@
-OTU ID	sample1	sample2	sample3	sample4	sample5	taxonomy
-OTU_1024	1	1	0	0	0	100%|Alternaria_angustiovoidea|PP854441.1|SH457761.06FU|reps_singleton|k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Pleosporaceae;g__Alternaria;s__Alternaria_angustiovoidea
-
